@@ -1,5 +1,6 @@
 package BusinessLogicLayer;
 
+
 public class UserVO {
 	private String id; // 아이디
 	private String pwd; // 비밀번호
